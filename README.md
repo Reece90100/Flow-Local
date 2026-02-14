@@ -200,19 +200,6 @@ Grant microphone access: System Preferences → Security & Privacy → Microphon
 
 ---
 
-## Contributing
-
-1. Fork the repository
-2. Create a dev branch: `git checkout -b dev`
-3. Make changes and test: `pytest tests/`
-4. Commit: `git commit -m "feat: add feature"`
-5. Push to dev: `git push origin dev`
-6. Create Pull Request to dev branch
-
-**Note:** We use the `dev` branch for development. Never push directly to `main`.
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) file
